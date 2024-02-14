@@ -1,0 +1,30 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 100% 10%;*/
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+p {
+    color:rgb(34, 34, 34)
+}
+
+.foto-principal{
+    border: 2px solid #FFFFFF; /* shorthand */
+    width: 200px;
+    border-radius: 50%;
+   /*
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    */
+    margin: 30px 30px 30px 30px;
+    /*
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    */
+}
